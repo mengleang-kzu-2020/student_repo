@@ -1,0 +1,16 @@
+1. Create a repository in the github.
+2. Upload text file in it.
+3. Create a new branch.
+4. Change Some code inside new branch text file. Dot merge it with main. 
+5. Add Colaborator.
+6. Login as colaborator.
+7. After login as colaborator- Accept request as Colaborator
+8. After login as owner(original) - Add some line in your branch text file.
+9. Create a Milestone.
+10. Create a review and add milestone and add colaborator as reviewer.
+What % of the milestone will be completed?
+11. Login as colaborator
+11. Review it.
+12. Login from original account and check review and merge it.
+After Merge What % of the milestone will be completed?
+ 
