@@ -15,3 +15,4 @@ What % of the milestone will be completed?
 After Merge What % of the milestone will be completed?
 
 4. Change Some code inside new branch text file. Dot merge it with main.
+8. After login as owner(original) - Add some line in your branch text file.
